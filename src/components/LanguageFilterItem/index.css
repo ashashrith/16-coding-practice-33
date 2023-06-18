@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.list {
+  margin-right: 15px;
+}
+
+.btn {
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-width: 0px;
+}
+
+.ex-cls {
+  border-width: 1px;
+  border-color: #0284c7;
+  border-radius: 6px;
+  color: #0284c7;
+  background-color: transparent;
+  height: auto;
+  font-size: 15px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  width: auto;
+  border-style: solid;
+}

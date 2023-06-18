@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg {
+  margin: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  height: 17%;
+  width: 25%;
+}
+
+.img {
+  height: 70px;
+  width: 70px;
+  background-size: cover;
+}
+
+.name {
+  color: #e73959;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.p {
+  color: #1e293b;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.image {
+  height: 16px;
+  width: 16px;
+  background-size: cover;
+}
+
+.div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}

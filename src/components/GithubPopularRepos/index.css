@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.heading {
+  font-size: 26px;
+  font-weight: 600;
+  font-family: 'lobster';
+  color: black;
+}
+
+.list-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.container {
+  height: auto;
+  background-color: white;
+  width: 80%;
+  padding: 20px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.view {
+  height: 67vh;
+  width: 50%;
+  background-size: cover;
+}
